@@ -8,4 +8,4 @@ Summary comparing the chargeback amount month on month with major impacting reas
 - TBD
 - TBD  
 
-![Chargebacks](image/Chargeback.JPG)
+![Chargebacks](image/Chargeback_Image.JPG)
